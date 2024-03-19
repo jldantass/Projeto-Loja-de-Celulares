@@ -1,0 +1,65 @@
+Android
+Samsung
+s20
+1750
+6.2
+4000mAh
+8GB
+10MP
+12MP
+5G
+Samsung exynos 990
+128GB
+21
+sim
+13
+/
+Android
+Samsung
+s22
+2969
+6.1
+3700
+8gb
+10
+50
+5g
+snapdrgon 8 gen 1 qualcomm
+256
+2
+sim
+13
+/
+iOS
+Apple
+iphone 13
+3500
+6.1
+5000
+6
+12
+12
+5g
+amd 500
+512
+8
+sim
+nao
+13
+/
+Android
+samsung
+m54
+4999
+6,7
+5000
+6
+12
+108
+5g
+noasei oq
+1tb
+8
+sim
+13
+/
